@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hello, my name is Leana Scott, I am a technical project manager and web application developer
 
 You can use the [editor on GitHub](https://github.com/leanascott/leanascott.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
